@@ -8,5 +8,6 @@ public class TemplateViewApplication {
 //test
 	public static void main(String[] args) {
 		SpringApplication.run(TemplateViewApplication.class, args);
+		//helloworld
 	}
 }
